@@ -1,1 +1,1 @@
-# skylanders-hangman
+# Skylanders Hangman
